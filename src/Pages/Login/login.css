@@ -1,0 +1,7 @@
+.shadoww {
+    box-shadow: 0.2px 3px #3366CC;
+}
+
+.grad {
+    background-image: linear-gradient(#C2DAFF, #EFF1F0);
+}
