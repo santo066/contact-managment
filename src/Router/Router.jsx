@@ -41,7 +41,7 @@ const router = createBrowserRouter([
             {
                 path: 'contactManagment',
                 element: <Contacts></Contacts>,
-                loader: () => fetch('http://localhost:5000/contact')
+                loader: () => fetch('https://contact-managment-server.onrender.com/contact')
             }
         ]
     }
